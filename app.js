@@ -2,7 +2,6 @@
  * Created by danieldihardja on 04.08.19.
  */
 
-
 const aws = require('aws-sdk');
 const cors = require('cors');
 const multer = require('multer');
